@@ -8,7 +8,7 @@ For people who are feeling lost or unprepared on how to handle COVID, this appli
 
 ## 🦠 Desireable Features
 Because COVID-19 applies to every single person, the application needs to provide a universal set of features that make the application easy-to-use, while being informative at the same time. Here are 5 of the most desirable features.
-  1. Thermal Camera for COVID-19 Detection 
+  1. Thermal Imaging for COVID-19 Detection 
   2. Personalized Portfolio
   3. In Need / Offering Help Chat
   4. Universal Self-Assessment Check
