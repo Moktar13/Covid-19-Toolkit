@@ -16,7 +16,7 @@ Because COVID-19 applies to every single person, the application needs to provid
 
 
 ## 🦠 Screenshots
-![Design Preview](./preview.png)
+![Design Preview](./preview_design.png)
 
 ## 🦠 Links
   1.  [Demo Video](https://youtu.be/9FVYHLEJWAE)
