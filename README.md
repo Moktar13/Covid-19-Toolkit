@@ -8,7 +8,7 @@ For people who are feel lost or unprepared on how to handle COVID, this applicat
 
 ## 🦠 Desireable Features
 Because COVID-19 applies to every single person, the application needs to provide a universal set of features that make the application easy-to-use, while being informative at the same time. Here are 5 of the most desireable features.
-  1. Good User Interface and User Experience
+  1. Thermal Camera Imaging for COVID-19 Detection 
   2. Personalized Portfolio
   3. In Need / Offering Help Chat
   4. Universal Self-Assessment Check
