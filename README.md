@@ -3,11 +3,11 @@ Developed and designed for INFO31179 Human Computer Interaction
 
 
 ## 🦠 About
-For people who are feel lost or unprepared on how to handle COVID, this application is for them! Covid-19 Toolkit was designed to help you equip yourself with the necessary tools and knowledge to combat COVID-19 and to understand what's going on in the world. This application provides a plethora of features which helps keep you up-to-date with the statistics, guidelines, and self-assessments for COVID-19.
+For people who are feeling lost or unprepared on how to handle COVID, this application is for them! Covid-19 Toolkit was designed to help you equip yourself with the necessary tools and knowledge to combat COVID-19 and to understand what's going on in the world. This application provides a plethora of features that help keep you up-to-date with the statistics, guidelines, and self-assessments for COVID-19. Get some tips on your Treks country
 
 
 ## 🦠 Desireable Features
-Because COVID-19 applies to every single person, the application needs to provide a universal set of features that make the application easy-to-use, while being informative at the same time. Here are 5 of the most desireable features.
+Because COVID-19 applies to every single person, the application needs to provide a universal set of features that make the application easy-to-use, while being informative at the same time. Here are 5 of the most desirable features.
   1. Thermal Camera Imaging for COVID-19 Detection 
   2. Personalized Portfolio
   3. In Need / Offering Help Chat
