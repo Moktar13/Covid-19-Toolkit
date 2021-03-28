@@ -20,4 +20,4 @@ Because COVID-19 applies to every single person, the application needs to provid
 
 ## 🦠 Links
   1.  [Demo Video](https://youtu.be/9FVYHLEJWAE)
-  2.  [FIGMA File](https://www.figma.com/file/M3V8dLsJ2wuEWHw4PhFRaW/Covid-19_Toolkit_A2)
+  2.  [FIGMA File](https://www.figma.com/file/lBNyhgcqEXeI21TtbbPGlw/Covid-19_Toolkit_A3?node-id=0%3A1)
